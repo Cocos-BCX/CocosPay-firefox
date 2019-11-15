@@ -1,4 +1,4 @@
-  [中文](https://github.com/wangjiangs/CocosPay-Firefox-add-ons/blob/master/README_cn.md)
+  [中文](https://github.com/Cocos-BCX/CocosPay-firefox/blob/master/README_cn.md)
 
 ## CocosPay:
 
